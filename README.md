@@ -12,5 +12,3 @@
 - Click Save
 - Wait for few Minutes then you will get a Url to access your website
 
-###  Author
-Abhishek Dindawar
